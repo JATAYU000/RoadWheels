@@ -1,3 +1,3 @@
-## Chainz
+## Chainz 🚴
 
 A Bike Rental Website.
